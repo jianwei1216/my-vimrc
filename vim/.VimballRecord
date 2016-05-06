@@ -1,0 +1,3 @@
+supertab.vba: call delete('/root/.vim/doc/supertab.txt')|call delete('/root/.vim/plugin/supertab.vim')
+tagbar.vmb: call delete('/home/ht706/.vim/README.md')|call delete('/home/ht706/.vim/autoload/tagbar.vim')|call delete('/home/ht706/.vim/doc/tagbar.txt')|call delete('/home/ht706/.vim/plugin/tagbar.vim')|call delete('/home/ht706/.vim/syntax/tagbar.vim')
+DrawIt.vba: call delete('/home/ht706/.vim/plugin/DrawItPlugin.vim')|call delete('/home/ht706/.vim/plugin/cecutil.vim')|call delete('/home/ht706/.vim/autoload/DrawIt.vim')|call delete('/home/ht706/.vim/doc/DrawIt.txt')

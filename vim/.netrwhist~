@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/lib/ocf/resource.d/pacemaker'
+let g:netrw_dirhist_2='/usr/lib/ocf/resource.d'
+let g:netrw_dirhist_3='/usr/lib/ocf'
+let g:netrw_dirhist_4='/usr/lib/ocf/lib'
+let g:netrw_dirhist_5='/usr/lib/ocf/lib/heartbeat'
+let g:netrw_dirhist_6='/usr/lib/ocf/lib'
+let g:netrw_dirhist_7='/usr/lib/ocf/lib/heartbeat'
+let g:netrw_dirhist_8='/etc/yum.repos.d'
